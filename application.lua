@@ -1,4 +1,5 @@
 -- Roblox: MatPatW, discord: matpatw
+-- "find the" game server script
 
 local Players = game:GetService("Players")
 local DataStoreService = game:GetService("DataStoreService")
